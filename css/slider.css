@@ -44,6 +44,7 @@ font-family: 'Droid Arabic Kufi', sans-serif;
   line-height: 1.4;
   margin-bottom: 1em;
   padding: 0 14px;
+  color: #555;
 }
 @media only screen and (min-width: 768px) {
   .cd-slider p {
