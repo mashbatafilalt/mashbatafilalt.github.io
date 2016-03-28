@@ -106,7 +106,7 @@ header{direction: ltr; text-align: center;color: #fff;/*background: url(../image
 /* ---------------------------------------------------------------------------- */
 .box-content.box-1{text-align: center;}
 .box-content.box-1 img {text-align: center; margin: 40px auto;}
-.box-content.box-1 .white-table{margin-top:-150px;background: #FEFEFE; border-top: 7px solid #718E25;padding: 50px 20px;border-radius: 6px;}
+.box-content.box-1 .white-table{margin-top:-150px;background: #FEFEFE; border-top: 7px solid #718E25;padding:50px 20px 0px 20px;border-radius: 6px;}
 
 /* ---------------------------------------------------------------------------- */
 /* --------------------------------New(box-2)---------------------------------- */
