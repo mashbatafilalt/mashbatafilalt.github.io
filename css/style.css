@@ -424,8 +424,8 @@ a.btn:focus{outline: 0;}
 	.navbar-default.navbar-shrink .nav li a {font-weight: 500;text-decoration: none;}
     .navbar-default.navbar-shrink {
         padding: 15px 0;
-        height: 130px;
-		background: #fff url(../images/grass2.png) repeat-x bottom center;
+        height: 120px;
+	background: #fff url(../images/grass2.png) repeat-x bottom center;
     }
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
