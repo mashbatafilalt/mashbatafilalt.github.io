@@ -539,5 +539,11 @@ a.btn:focus{outline: 0;}
 }
 
 section#nav-collection {color:#fff; background: url(../images/bg2.jpg) #222 fixed;}
+.fb-like {
+    position: fixed;
+    bottom: 20px;
+    left: 5px;
+    z-index: 999;
+}
 
 
